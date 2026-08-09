@@ -11,3 +11,4 @@ Each key triggers a recorded .mp3 vocal sample mapped to a musical note, creatin
 > B10k potentiometer slider *1  
 
 ## Form Factor
+https://github.com/StellarLyyd/UltimateKeyboard/blob/main/enclosure.jpg
