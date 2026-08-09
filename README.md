@@ -36,4 +36,4 @@ the 12 Keys negative - ESP32 GPIO 1, 2, 42, 41, 40, 39, 38, 47, 9, 10, 11, 12
 // This image only includes some buttons and one DFPlayer, just for reference
 
 ## Demo
-
+https://github.com/StellarLyyd/VocalKeys/blob/main/demo.mp4
