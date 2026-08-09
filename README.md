@@ -8,7 +8,20 @@ Each key triggers a recorded .mp3 vocal sample mapped to a musical note, creatin
 > DFPlayer Mini *2  
 > SD card *2  
 > 4 ohm 3W speaker *2  
-> B10k potentiometer slider *1  
+> B10k potentiometer slider *1
+> TPS 61023 voltage level shifter *1
+
+// DFPlayer needs 5V input, so a level shifter is needed for converting ESP32 3V3 output to 5V
 
 ## Form Factor
 ![Enclosure](kb2.jpg)
+
+## Wiring
+DFPlayer1 TX - ESP32 GPIO 5  
+DFPlayer2 RX - ESP32 GPIO 4
+
+DFPlayer2 TX - ESP32 GPIO 16
+DFPlayer2 RX - ESP32 GPIO 15
+
+Slider pin 1 - 3V3
+
