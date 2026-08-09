@@ -1,6 +1,6 @@
 # Vocal Keys: A Human Voice Sampled Piano
-A custom electronic keyboard that transforms human voices into musical instruments. 
-Each key triggers a recorded .mp3 vocal sample mapped to a musical note, creating a personalized piano experience.
+A custom electronic keyboard that plays human voices into musical notes.
+Each key triggers a recorded vocal sample mapped to a specific pitch, creating a personalized piano experience.
 
 ## Demo
 https://github.com/user-attachments/assets/fc9145c8-f060-4a9d-a129-25b0cc0f393c
