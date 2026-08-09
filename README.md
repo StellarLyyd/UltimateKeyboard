@@ -47,3 +47,6 @@ the 12 Keys negative - ESP32 GPIO 1, 2, 42, 41, 40, 39, 38, 47, 9, 10, 11, 12
 
 ![Wiring](wiring.jpg)  
 // This image only includes some buttons and one DFPlayer, just for reference
+
+## Code for ESP32
+https://github.com/StellarLyyd/UltimateKeyboard/blob/main/UltimateKeyboard2Players.ino
