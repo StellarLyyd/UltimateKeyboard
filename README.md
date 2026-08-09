@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/fc9145c8-f060-4a9d-a129-25b0cc0f393c
 > SD card *2  
 > 4 ohm 3W speaker *2  
 > B10k potentiometer slider *1
-> TPS 61023 voltage level shifter *1  
+> TPS 61023 voltage boost converter *1  
 > // DFPlayer needs 5V input, so a level shifter is needed for converting ESP32 3V3 output to 5V
 
 ## Form Factor
@@ -28,8 +28,8 @@ DFPlayer2 RX - ESP32 GPIO 15
 Slider pin 1 - 3V3
 Slider pin 2 - ESP32 GPIO 6
 
-Voltage shifter Vin - ESP32 3V3 output
-Voltage shifter Vout - DFPlayer Vin (5V)
+Voltage converter Vin - ESP32 3V3 output
+Voltage converter Vout - DFPlayer Vin (5V)
 
 the 12 keys positive - 3V3
 the 12 Keys negative - ESP32 GPIO 1, 2, 42, 41, 40, 39, 38, 47, 9, 10, 11, 12  
