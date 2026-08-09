@@ -25,9 +25,12 @@ DFPlayer2 RX - ESP32 GPIO 15
 Slider pin 1 - 3V3
 Slider pin 2 - ESP32 GPIO 6
 
+Voltage shifter Vin - ESP32 3V3 output
+Voltage shifter Vout - DFPlayer Vin (5V)
+
 the 12 keys positive - 3V3
 the 12 Keys negative - ESP32 GPIO 1, 2, 42, 41, 40, 39, 38, 47, 9, 10, 11, 12  
 // Note that some GPIOs on ESP32 S3 are used for special purposes like reset and are not safe to use as button inputs
 
-![Wiring](wiring.jpg)
-
+![Wiring](wiring.jpg)  
+// This image only includes some buttons and one DFPlayer, just for reference
