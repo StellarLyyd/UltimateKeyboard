@@ -11,4 +11,4 @@ Each key triggers a recorded .mp3 vocal sample mapped to a musical note, creatin
 > B10k potentiometer slider *1  
 
 ## Form Factor
-![Enclosure](wiring.jpg)
+![Enclosure](kb2.jpg)
