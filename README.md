@@ -3,7 +3,8 @@ A custom electronic keyboard that transforms human voices into musical instrumen
 Each key triggers a recorded mpc vocal sample mapped to a musical note, creating a personalized piano experience.
 
 ## Materials
-> ESP32 S3 Dev Board *1 \n
+> ESP32 S3 Dev Board *1
+
 > Mechanical keys *12
 > DFPlayer Mini *2
 > SD card *2
