@@ -32,6 +32,9 @@ DFPlayer2 RX - ESP32 GPIO 4
 DFPlayer2 TX - ESP32 GPIO 16
 DFPlayer2 RX - ESP32 GPIO 15
 
+Speaker + - DFPlayer SPK1
+Speaker - - DFPlayer SPK2
+
 Slider pin 1 - 3V3
 Slider pin 2 - ESP32 GPIO 6
 
