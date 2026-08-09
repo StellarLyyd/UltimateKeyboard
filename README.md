@@ -2,6 +2,9 @@
 A custom electronic keyboard that transforms human voices into musical instruments. 
 Each key triggers a recorded .mp3 vocal sample mapped to a musical note, creating a personalized piano experience.
 
+## Demo
+https://github.com/user-attachments/assets/fc9145c8-f060-4a9d-a129-25b0cc0f393c
+
 ## Materials
 > ESP32 S3 Dev Board *1  
 > Mechanical keys *12  
@@ -34,8 +37,3 @@ the 12 Keys negative - ESP32 GPIO 1, 2, 42, 41, 40, 39, 38, 47, 9, 10, 11, 12
 
 ![Wiring](wiring.jpg)  
 // This image only includes some buttons and one DFPlayer, just for reference
-
-## Demo
-https://github.com/user-attachments/assets/fc9145c8-f060-4a9d-a129-25b0cc0f393c
-
-
