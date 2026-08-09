@@ -10,8 +10,7 @@ Each key triggers a recorded .mp3 vocal sample mapped to a musical note, creatin
 > 4 ohm 3W speaker *2  
 > B10k potentiometer slider *1
 > TPS 61023 voltage level shifter *1
-
-// DFPlayer needs 5V input, so a level shifter is needed for converting ESP32 3V3 output to 5V
+> DFPlayer needs 5V input, so a level shifter is needed for converting ESP32 3V3 output to 5V
 
 ## Form Factor
 ![Enclosure](kb2.jpg)
