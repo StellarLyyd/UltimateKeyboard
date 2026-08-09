@@ -12,6 +12,11 @@ https://github.com/user-attachments/assets/fc9145c8-f060-4a9d-a129-25b0cc0f393c
 - Adjustable volume control
 - Custom 3D printed enclosure
 
+## How it works
+- press a key -> DFPlayer plays a specific mp3 file from SD card
+- release a key -> audio stops
+- press two keys simultaneously -> two DFPlayers play two distinct notes at the same time
+
 ## Materials
 > ESP32 S3 Dev Board *1  
 > Mechanical keys *12  
@@ -50,3 +55,6 @@ the 12 Keys negative - ESP32 GPIO 1, 2, 42, 41, 40, 39, 38, 47, 9, 10, 11, 12
 
 ## Code for ESP32
 https://github.com/StellarLyyd/UltimateKeyboard/blob/main/UltimateKeyboard2Players.ino
+
+## Future Works
+Each Neopixel corresponds to a key respectively. When a key gets pressed, the neopixel above the key lights up.
