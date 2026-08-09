@@ -5,6 +5,13 @@ Each key triggers a recorded .mp3 vocal sample mapped to a musical note, creatin
 ## Demo
 https://github.com/user-attachments/assets/fc9145c8-f060-4a9d-a129-25b0cc0f393c
 
+## Features
+- 12-key electronic keyboard
+- Human voice samples
+- Dual DFPlayer Mini modules for polyphonic playback
+- Adjustable volume control
+- Custom 3D printed enclosure
+
 ## Materials
 > ESP32 S3 Dev Board *1  
 > Mechanical keys *12  
